@@ -1,0 +1,6 @@
+{
+  "name": "Skincare & Habits",
+  "description": "Track your daily skincare routines, manage products, receive habit reminders, and log your progress photos over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
